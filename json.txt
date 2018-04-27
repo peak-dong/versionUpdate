@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "1.0.1",
+  "apk_file_url": "https://raw.githubusercontent.com/peak-dong/versionUpdate/master/app-debug.apk",
+  "update_log": "1，bugfix \r\n2，improve ui",
+  "target_size": "8M",
+  "new_md5":"18d401d22b09c97a90afdfe0ce5a982c",
+  "constraint": false
+}
