@@ -1,6 +1,6 @@
 {
 "retcode": 0,
-"message": ‘success’,
+"message": "success",
 "data": {
   "update": "Yes",
   "new_version": "1.0.1",
