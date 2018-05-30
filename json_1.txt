@@ -1,0 +1,13 @@
+{
+"retcode": 0,
+"message": ‘success’,
+"data": {
+  "update": "Yes",
+  "new_version": "1.0.1",
+  "apk_file_url": "https://raw.githubusercontent.com/peak-dong/versionUpdate/master/app-debug.apk",
+  "update_log": "1，bugfix \r\n2，improve ui",
+  "target_size": "8M",
+  "new_md5":"800fa783c1115be5e07d18798d0082d9",
+  "update_mode": 0
+}
+}
