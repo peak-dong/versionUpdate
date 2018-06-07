@@ -1,11 +1,11 @@
 {
-"info”:
+"info":
 	{
 	 "id":1,
-	 "name":”name”,
-	 "content":"content”,
-	 "gridview”:[
-		{"title":"canvas","url":"https://raw.githubusercontent.com/peak-dong/versionUpdate/master/pet.jpeg"}
+	 "name":"name",
+	 "content":"content",
+	 "gridview":[
+		{"title":"title","url":"https://raw.githubusercontent.com/peak-dong/versionUpdate/master/pet.jpeg"}
 	 ]
 	}	
 }
