@@ -3,6 +3,7 @@
 	{
 	 "id":1,
 	 "name":"name",
+	 "level":2,
 	 "content":"content",
 	 "gridview":[
 		{"title":"title","url":"https://raw.githubusercontent.com/peak-dong/versionUpdate/master/pet.jpeg"}
