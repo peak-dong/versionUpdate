@@ -1,0 +1,13 @@
+{
+"retcode": 0,
+"message": "success",
+"data": {
+  "update": "Yes",
+  "new_version": "1.0.1",
+  "apk_file_url": "https://raw.githubusercontent.com/peak-dong/versionUpdate/master/wms_2.1.1_debug_test_20190925.apk",
+  "update_log": "1，bugfix \r\n2，improve ",
+  "target_size": "8M",
+  "new_md5":"14d67b33bd978684a34ba9ee3868a58a",
+  "update_mode": 0
+}
+}
